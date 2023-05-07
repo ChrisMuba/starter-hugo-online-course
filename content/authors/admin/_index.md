@@ -1,5 +1,5 @@
 ---
-role: Prof de Data RH (R, Python, SQL, Excel)
+role: Professeur de Data RH (Etudes RH & Contrôle de gestion sociale)
 bio: Mes sujets d'intérêts et différents travaux incluent l'analyse des données,
   la data science, le contrôle de gestion sociale et le developpement outils
   d'aide à la décision.
@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Université de Bourgogne
     url: ""
 education:
   courses:
