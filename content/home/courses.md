@@ -20,7 +20,7 @@ content:
       tag: previous
     - name: Current
       tag: current
-widget_id: Post recent
+widget_id: Post récent
 design:
   columns: "1"
   view: masonry
