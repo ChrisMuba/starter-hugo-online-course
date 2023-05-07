@@ -26,8 +26,6 @@ hero_media: teacher.png
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
 Bienvenue au cours en ligne du Contrôle de Gestion Sociale !
 
 Êtes-vous intéressé par une carrière qui relie les mondes de la finance et des ressources humaines? Vous souhaitez avoir un impact significatif sur la politique de ressources humaines et les coûts financiers d'une organisation ? Si oui, notre cours en ligne est conçu pour vous.
