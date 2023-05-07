@@ -28,9 +28,9 @@ hero_media: teacher.png
 
 **Bienvenue dans ce cours en ligne !**
 
-👉🏽Êtes-vous intéressé par un métier a mi-chemin entre la **finance** et les **Ressources Humaines** ?
+👉🏾Êtes-vous intéressé par un métier a mi-chemin entre la **finance** et les **Ressources Humaines** ?
 
-👉🏽Vous souhaitez **optimiser** la gestion RH et les coûts financiers d'une organisation ? 
+👉🏾Vous souhaitez **optimiser** la gestion RH et les coûts financiers d'une organisation ? 
 
 🏆Si oui, notre cours en ligne est conçu pour vous. Nous approfondirons quatre thèmes principaux :
 
