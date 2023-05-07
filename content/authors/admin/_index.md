@@ -26,7 +26,14 @@ education:
         gestion, Gestion des RH, Systèmes d’information, Marketing)
       institution: IAE de Dijon - Université de Bourgogne
       year: 2018
-    - course: Master Biologie des Organismes et des Populations
+    - course: Master Biologie des Organismes et des Populations (Statistiques
+        Inférentielles, Analyse exploratoire et confirmatoire des données,
+        Estimation et Tests d'hypothèses, ANOVA et Régression, Techniques non
+        paramétriques ; Plans expérimentaux, Randomisation, Réplication,
+        Détermination de la taille de l'échantillon, Plan en blocs complèts
+        randomisés, Plan factoriel, Plans à mesures répétées et analyses de
+        variance et covariance. Application aux interactions plante et
+        environnement.)
       institution: ENESAD - AgroSup Dijon - Université de Bourgogne
       year: 2011
 superuser: true
