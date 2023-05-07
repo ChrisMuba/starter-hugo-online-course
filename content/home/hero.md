@@ -12,7 +12,7 @@ cta:
 widget_id: Changement récent
 headless: true
 weight: 10
-title: Bienvenue au cours en ligne du Contrôle de Gestion Sociale !
+title: Contrôle de Gestion Sociale !
 cta_alt:
   ? url
   ? label
@@ -26,17 +26,17 @@ hero_media: teacher.png
 ---
 <br>
 
-*Êtes-vous intéressé par une carrière qui relie les mondes de la finance et des ressources humaines ? Vous souhaitez avoir un impact significatif sur la politique de ressources humaines et les coûts financiers d'une organisation ?* Si oui, notre cours en ligne est conçu pour vous.
+Bienvenue dans ce cours en ligne ! 
 
-Dans le paysage dynamique des entreprises françaises, le rôle d'un contrôleur de gestion sociale est crucial. Cette fonction consiste à collecter, analyser, synthétiser et modéliser des données sociales pour optimiser la gestion RH et les coûts financiers.
+Êtes-vous intéressé par une carrière a mi-chemin entre la finance et des ressources humaines ?Vous souhaitez optimiser la gestion RH et les coûts financiers d'une organisation ? Si oui, notre cours en ligne est conçu pour vous.
 
-Tout au long de ce cours, nous approfondirons quatre thèmes principaux, vous dotant des connaissances et des compétences nécessaires pour prospérer dans ce domaine :
+Tout au long de ce cours, nous approfondirons quatre thèmes principaux :
 
-Thèmes abordés :
-🎯 **Collecte et analyse de données sociales** : créez des indicateurs, analysez des données sociales quantitatives et assurez-vous de leur fiabilité.
-🎯 **Enquêtes et études statistiques** : générer des tableaux de bord mensuels, mener des études spécifiques et remplir les obligations légales.
-🎯 **Conseil RH** : Identifiez les problèmes, proposez des plans d'action et mesurez les coûts financiers.
-🎯 **Veille sociale et réglementaire** : Restez informé des niveaux de rémunération et des évolutions réglementaires.
+
+🎯 **Collecte et analyse de données sociales** : création d'indicateurs et analyse des données sociales.
+🎯 **Enquêtes et études statistiques** : tableaux de bord, études ponctuelles et obligations légales.
+🎯 **Conseil RH** : identification des problèmes, plans d'action et mesure des coûts financiers.
+🎯 **Veille sociale et réglementaire** : niveaux de rémunération et évolutions réglementaires.
 
 🔑 Rejoignez-nous dès aujourd'hui et débloquez le potentiel de votre carrière dans le contrôle de gestion sociale !
 
