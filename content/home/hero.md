@@ -12,7 +12,7 @@ cta:
 widget_id: Changement récent
 headless: true
 weight: 10
-title: Contrôle de Gestion Sociale
+title: Bienvenue au cours en ligne du **Contrôle de Gestion Sociale** !
 cta_alt:
   ? url
   ? label
@@ -25,8 +25,6 @@ design:
 hero_media: teacher.png
 ---
 <br>
-
-Bienvenue au cours en ligne du **Contrôle de Gestion Sociale** !
 
 *Êtes-vous intéressé par une carrière qui relie les mondes de la finance et des ressources humaines ? Vous souhaitez avoir un impact significatif sur la politique de ressources humaines et les coûts financiers d'une organisation ?* Si oui, notre cours en ligne est conçu pour vous.
 
