@@ -26,9 +26,9 @@ hero_media: teacher.png
 ---
 <br>
 
-Bienvenue au cours en ligne du Contrôle de Gestion Sociale !
+Bienvenue au cours en ligne du **Contrôle de Gestion Sociale** !
 
-Êtes-vous intéressé par une carrière qui relie les mondes de la finance et des ressources humaines? Vous souhaitez avoir un impact significatif sur la politique de ressources humaines et les coûts financiers d'une organisation ? Si oui, notre cours en ligne est conçu pour vous.
+*Êtes-vous intéressé par une carrière qui relie les mondes de la finance et des ressources humaines ? Vous souhaitez avoir un impact significatif sur la politique de ressources humaines et les coûts financiers d'une organisation ?* Si oui, notre cours en ligne est conçu pour vous.
 
 Dans le paysage dynamique des entreprises françaises, le rôle d'un contrôleur de gestion sociale est crucial. Cette fonction consiste à collecter, analyser, synthétiser et modéliser des données sociales pour optimiser la gestion RH et les coûts financiers.
 
