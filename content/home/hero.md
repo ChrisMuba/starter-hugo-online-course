@@ -37,8 +37,14 @@ hero_media: teacher.png
 Nous approfondirons quatre thèmes principaux :
 
 📈 **Collecte et analyse de données sociales** : création d'indicateurs et analyse des données sociales.
+
+
 📊 **Enquêtes et études statistiques** : tableaux de bord, études ponctuelles et obligations légales.
+
+
 🔮 **Conseil RH** : identification des problèmes, plans d'action et mesure des coûts financiers.
+
+
 ⚖️ **Veille sociale et réglementaire** : niveaux de rémunération et évolutions réglementaires.
 
 Rejoignez-nous dès aujourd'hui et 🔑débloquez le potentiel de votre carrière dans le contrôle de gestion sociale !
