@@ -28,7 +28,7 @@ hero_media: teacher.png
 
 **Bienvenue dans ce cours en ligne !** 
 
-Êtes-vous intéressé par un métier a mi-chemin entre la finance et les RH ?
+Êtes-vous intéressé par un métier a mi-chemin entre la **finance** et les **Ressources Humaines** ?
 
 Vous souhaitez optimiser la gestion RH et les coûts financiers d'une organisation ? 
 
