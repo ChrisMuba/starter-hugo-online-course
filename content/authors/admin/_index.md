@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Ecole Pratique du Contrôle de Gestion Sociale
+  - name: Ecole Pratique de la Data RH
     url: ""
 education:
   courses:
