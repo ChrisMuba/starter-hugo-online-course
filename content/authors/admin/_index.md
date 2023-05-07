@@ -1,7 +1,8 @@
 ---
 role: Prof de Data RH (R, Python, SQL, Excel)
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Mes sujets d'intérêts et différents travaux incluent l'analyse des données,
+  la data science, le contrôle de gestion sociale et le developpement outils
+  d'aide à la décision.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -37,5 +38,4 @@ highlight_name: false
 title: Chris MUBA
 email: ""
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mes sujets d'intérêts et différents travaux menés incluent l'analyse des données, la data science, le contrôle de gestion sociale et le developpement outils d'aide à la décision.
