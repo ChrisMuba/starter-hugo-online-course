@@ -33,8 +33,8 @@ education:
         paramétriques ; Plans expérimentaux, Randomisation, Réplication,
         Détermination de la taille de l'échantillon, Plan en blocs complèts
         randomisés, Plan factoriel, Plans à mesures répétées et analyses de
-        variance et covariance. Application aux interactions plante et
-        environnement.)
+        variance et covariance. Application aux interactions Plante et
+        Environnement.)
       institution: ENESAD - AgroSup Dijon - Université de Bourgogne
       year: 2011
 superuser: true
