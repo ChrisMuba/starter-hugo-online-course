@@ -1,5 +1,5 @@
 ---
-role: Professeur de Data RH (Etudes RH & Contrôle de gestion sociale)
+role: Professeur de Data RH
 bio: Mes sujets d'intérêts et différents travaux incluent l'analyse des données,
   la data science, le contrôle de gestion sociale et le developpement outils
   d'aide à la décision.
@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Université de Bourgogne
+  - name: Ecole Pratique du Contrôle de Gestion Sociale
     url: ""
 education:
   courses:
