@@ -12,7 +12,7 @@ cta:
 widget_id: Changement récent
 headless: true
 weight: 10
-title: Bienvenue au cours en ligne du **Contrôle de Gestion Sociale** !
+title: Bienvenue au cours en ligne du Contrôle de Gestion Sociale !
 cta_alt:
   ? url
   ? label
