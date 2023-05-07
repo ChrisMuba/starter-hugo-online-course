@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: Master Management et Administration des Entreprises (Comptabilité &
-        Contrôle de gestion, Gestion RH, Systèmes d’information, Marketing,
+        Contrôle de gestion, Gestion des RH, Systèmes d’information, Marketing,
         Finance d’entreprise, Gestion de projet, Anglais)
       institution: IAE de Dijon - Université de Bourgogne
       year: 2018
