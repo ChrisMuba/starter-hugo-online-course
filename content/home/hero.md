@@ -26,9 +26,11 @@ hero_media: teacher.png
 ---
 <br>
 
-Bienvenue dans ce cours en ligne ! 
+**Bienvenue dans ce cours en ligne !** 
 
-Êtes-vous intéressé par une carrière a mi-chemin entre la finance et des ressources humaines ?Vous souhaitez optimiser la gestion RH et les coûts financiers d'une organisation ? Si oui, notre cours en ligne est conçu pour vous.
+Êtes-vous intéressé par une carrière a mi-chemin entre la finance et des ressources humaines ?
+
+Vous souhaitez optimiser la gestion RH et les coûts financiers d'une organisation ? Si oui, notre cours en ligne est conçu pour vous.
 
 Tout au long de ce cours, nous approfondirons quatre thèmes principaux :
 
