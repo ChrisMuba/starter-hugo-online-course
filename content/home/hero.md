@@ -32,7 +32,7 @@ hero_media: teacher.png
 
 👉🏽Vous souhaitez **optimiser** la gestion RH et les coûts financiers d'une organisation ? 
 
-👏🏽Si oui, notre cours en ligne est conçu pour vous. Nous approfondirons quatre thèmes principaux :
+🏆Si oui, notre cours en ligne est conçu pour vous. Nous approfondirons quatre thèmes principaux :
 
 🎯 **Collecte et analyse de données sociales** : création d'indicateurs et analyse des données sociales.
 🎯 **Enquêtes et études statistiques** : tableaux de bord, études ponctuelles et obligations légales.
