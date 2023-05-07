@@ -22,15 +22,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master Management et Administration des Entreprises
+      institution: IAE de Dijon - Université de Bourgogne
+      year: 2018
+    - course: Master Biologie des Organismes et des Populations
+      institution: ENESAD - AgroSup Dijon - Université de Bourgogne
+      year: 2011
 superuser: true
 user_groups:
   - Teachers
