@@ -28,12 +28,13 @@ hero_media: teacher.png
 
 **Bienvenue dans ce cours en ligne !** 
 
-Êtes-vous intéressé par une carrière a mi-chemin entre la finance et des ressources humaines ?
+Êtes-vous intéressé par un métier a mi-chemin entre la finance et les RH ?
 
-Vous souhaitez optimiser la gestion RH et les coûts financiers d'une organisation ? Si oui, notre cours en ligne est conçu pour vous.
+Vous souhaitez optimiser la gestion RH et les coûts financiers d'une organisation ? 
+
+Si oui, notre cours en ligne est conçu pour vous.
 
 Tout au long de ce cours, nous approfondirons quatre thèmes principaux :
-
 
 🎯 **Collecte et analyse de données sociales** : création d'indicateurs et analyse des données sociales.
 🎯 **Enquêtes et études statistiques** : tableaux de bord, études ponctuelles et obligations légales.
