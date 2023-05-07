@@ -35,10 +35,10 @@ Dans le paysage dynamique des entreprises françaises, le rôle d'un contrôleur
 Tout au long de ce cours, nous approfondirons quatre thèmes principaux, vous dotant des connaissances et des compétences nécessaires pour prospérer dans ce domaine :
 
 Thèmes abordés :
-🎯 Collecte et analyse de données sociales : créez des indicateurs, analysez des données sociales quantitatives et assurez-vous de leur fiabilité.
-🎯 Enquêtes et études statistiques : générer des tableaux de bord mensuels, mener des études spécifiques et remplir les obligations légales.
-🎯 Conseil RH : Identifiez les problèmes, proposez des plans d'action et mesurez les coûts financiers.
-🎯 Veille sociale et réglementaire : Restez informé des niveaux de rémunération et des évolutions réglementaires.
+🎯 **Collecte et analyse de données sociales** : créez des indicateurs, analysez des données sociales quantitatives et assurez-vous de leur fiabilité.
+🎯 **Enquêtes et études statistiques** : générer des tableaux de bord mensuels, mener des études spécifiques et remplir les obligations légales.
+🎯 **Conseil RH** : Identifiez les problèmes, proposez des plans d'action et mesurez les coûts financiers.
+🎯 **Veille sociale et réglementaire** : Restez informé des niveaux de rémunération et des évolutions réglementaires.
 
 🔑 Rejoignez-nous dès aujourd'hui et débloquez le potentiel de votre carrière dans le contrôle de gestion sociale !
 
