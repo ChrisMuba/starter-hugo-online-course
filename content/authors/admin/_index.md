@@ -4,9 +4,9 @@ bio: Mes sujets d'intérêts et différents travaux incluent l'analyse des donn�
   la data science, le contrôle de gestion sociale et le developpement outils
   d'aide à la décision.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Formation professionnelle
+  - Contrôle de gestion sociale
 social:
   - icon: envelope
     icon_pack: fas
