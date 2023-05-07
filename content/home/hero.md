@@ -9,7 +9,7 @@ cta:
   label: Explore our courses
   icon_pack: fas
   icon: user-graduate
-widget_id: Changement récent
+widget_id: Page_accueil
 headless: true
 weight: 10
 title: Contrôle de Gestion Sociale !
@@ -28,7 +28,7 @@ hero_media: teacher.png
 
 **Bienvenue dans ce cours en ligne !**
 
-👉🏾Êtes-vous intéressé par un métier a mi-chemin entre la **finance** et les **Ressources Humaines** ?
+👉🏾Êtes-vous intéressé par un métier a mi-chemin entre la **finance** et les **RH** ?
 
 👉🏾Vous souhaitez **optimiser** la gestion RH et les coûts financiers d'une organisation ? 
 
