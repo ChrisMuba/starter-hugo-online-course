@@ -39,6 +39,6 @@ Si oui, notre cours en ligne est conçu pour vous. Nous approfondirons quatre th
 🎯 **Conseil RH** : identification des problèmes, plans d'action et mesure des coûts financiers.
 🎯 **Veille sociale et réglementaire** : niveaux de rémunération et évolutions réglementaires.
 
-🔑 Rejoignez-nous dès aujourd'hui et débloquez le potentiel de votre carrière dans le contrôle de gestion sociale !
+Rejoignez-nous dès aujourd'hui et 🔑débloquez le potentiel de votre carrière dans le contrôle de gestion sociale !
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
