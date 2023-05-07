@@ -12,7 +12,7 @@ cta:
 widget_id: Changement récent
 headless: true
 weight: 10
-title: Cours en ligne
+title: Contrôle de Gestion Sociale
 cta_alt:
   ? url
   ? label
