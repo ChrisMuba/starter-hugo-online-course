@@ -1,5 +1,5 @@
 ---
-role: Prof de Data RH
+role: Prof de Data RH (R, Python, SQL, Excel)
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
