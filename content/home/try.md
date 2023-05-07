@@ -7,4 +7,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{% cta cta_link="./course/" cta_text="Découvrez nos cours !" %}}
+{{% cta cta_link="./course/" cta_text="Decouvrez nos cours !" %}}
